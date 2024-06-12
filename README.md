@@ -3,7 +3,7 @@
 
 ### 👩🏻‍💻 About Me
 
-I'm a Data Analyst and Data Scientist with a deep interest in Data Science. I love turning data into meaningful insights and using advanced technologies to tackle challenging problems. Whether it's uncovering hidden patterns in data or creating innovative models, I enjoy pushing the limits of what can be done.
+I'm a Data Analyst and Data Scientist with a background in Biomedical Engineering and a deep interest in Data Science. I love turning data into meaningful insights and using advanced technologies to tackle challenging problems. Whether it's uncovering hidden patterns in data or creating innovative models, I enjoy pushing the limits of what can be done.
 
 **🔍 What I'm Working On**: Sharpening my skills in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP).
 
