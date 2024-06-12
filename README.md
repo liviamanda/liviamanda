@@ -5,12 +5,12 @@
 <div style="display: flex;">
   <!-- GitHub Profile Stats -->
   <div style="flex: 1;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&theme=Cobalt" alt="Livia's Github Stats" width="60%">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&theme=dracula" alt="Livia's Github Stats" width="60%">
   </div>
 
   <!-- Most Used Languages -->
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&show_icons=true&hide_border=true&theme=Cobalt" width="37%" alt="Livia's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&show_icons=true&hide_border=true&theme=dracula" width="37%" alt="Livia's Top Languages">
   </div>
 </div>
 <br>
