@@ -3,11 +3,9 @@
 
 ### 👩🏻‍💻 About Me
 
-I'm a Data Analyst and Data Scientist with a deep interest in Data Science. I'm currently diving into the exciting worlds of Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP).
+I'm a Data Analyst and Data Scientist with a deep interest in Data Science. I love turning data into meaningful insights and using advanced technologies to tackle challenging problems. Whether it's uncovering hidden patterns in data or creating innovative models, I enjoy pushing the limits of what can be done.
 
-I love turning data into meaningful insights and using advanced technologies to tackle challenging problems. Whether it's uncovering hidden patterns in data or creating innovative models, I enjoy pushing the limits of what can be done.
-
-**🔍 What I'm Working On**: Sharpening my skills in Machine Learning, Deep Learning, Computer Vision, and NLP.
+**🔍 What I'm Working On**: Sharpening my skills in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP).
 
 **🤝 Looking to Collaborate**: I'm excited to work on projects that use data to create real-world solutions and drive innovation.
 
