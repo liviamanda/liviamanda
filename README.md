@@ -1,9 +1,20 @@
 ## Hi there 👋
 
-### 📈 GitHub Profile Stats
-<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&count_private=true&hide=" /></a>
+### ⚡ GitHub Stats
 
-<br/>
+<div style="display: flex;">
+  <!-- GitHub Profile Stats -->
+  <div style="flex: 1;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&theme=vue" alt="Livia's Github Stats" width="60%">
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&show_icons=true&hide_border=true&theme=vue" width="37%" alt="Livia's Top Languages">
+  </div>
+</div>
+<br>
+
 
 ### 🛠️ Languages and Tools
 
@@ -24,12 +35,14 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
 </p>
+<br/>
 
+### 📈 GitHub Profile Stats
+<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&count_private=true&hide=" /></a>
 <br/>
 
 ### 💻 Most Used Languages
 <a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&langs_count=10&layout=compact#" /></a>
-
 <br/>
 
 ---------
