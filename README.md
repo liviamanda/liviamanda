@@ -37,14 +37,6 @@
 </p>
 <br/>
 
-### 📈 GitHub Profile Stats
-<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&count_private=true&hide=" /></a>
-<br/>
-
-### 💻 Most Used Languages
-<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&langs_count=10&layout=compact#" /></a>
-<br/>
-
 ---------
 
 <div id="user-content-toc">
