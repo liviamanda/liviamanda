@@ -12,8 +12,7 @@ I'm a Data Analyst and Data Scientist with a background in Biomedical Engineerin
 **🌱 Always Learning**: I'm dedicated to keeping up with the latest advancements and trends in technology and data science.
 
 **💬 Let's Chat**: Feel free to reach out if you have questions or want to collaborate on a project. I'm always happy to connect and talk about data!
-
-<br/>
+<br>
 
 ## ⚡ GitHub Stats
 
