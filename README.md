@@ -1,6 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Livia <img src=
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### ⚡ GitHub Stats
+### 👩🏻‍💻 About Me
+
+I'm a Data Analyst and Data Scientist with a deep interest in Data Science. I'm currently diving into the exciting worlds of Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP).
+
+I love turning data into meaningful insights and using advanced technologies to tackle challenging problems. Whether it's uncovering hidden patterns in data or creating innovative models, I enjoy pushing the limits of what can be done.
+
+🔍 What I'm Working On: Sharpening my skills in Machine Learning, Deep Learning, Computer Vision, and NLP.
+
+🤝 Looking to Collaborate: I'm excited to work on projects that use data to create real-world solutions and drive innovation.
+
+🌱 Always Learning: I'm dedicated to keeping up with the latest advancements and trends in technology and data science.
+
+💬 Let's Chat: Feel free to reach out if you have questions or want to collaborate on a project. I'm always happy to connect and talk about data!
+
+<br/>
+
+## ⚡ GitHub Stats
 
 <div style="display: flex;">
   <!-- GitHub Profile Stats -->
@@ -16,7 +33,7 @@
 <br>
 
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> 
@@ -25,6 +42,8 @@
   <code> <img height="50" src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code><a href="https://spark.apache.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark logo" /></a></code>
+  <code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sklearn logo" /></a></a></code>
   <code> <img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.svg"> </code>
   <code> <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"> </code> 
