@@ -36,8 +36,6 @@
 
 ---------
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me!</h2></summary>
@@ -59,6 +57,3 @@
 [![](https://visitcount.itsvg.in/api?id=liviamandat&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
