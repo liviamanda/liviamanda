@@ -15,6 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  
+<!-- Languages and Tools -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Language and Tools</h2></summary>
+  </ul>
+</div>
+
+<br>
+<p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kerasio/kerasio-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"> </code> 
+  <code> <img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/huggingface/huggingface-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
+</p>
+
+---------
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -39,10 +74,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=liviamandat&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
