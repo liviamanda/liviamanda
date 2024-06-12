@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-## 📈 Github Stats
-
-### 📊 GitHub Profile Stats
+### 📈 GitHub Profile Stats
 <a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&count_private=true&hide=" /></a>
 
 <br/>
 
-### 💻 Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> 
@@ -38,7 +36,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me!</h2></summary>
+    <summary><h2 style="display: inline-block"> 🚀 Connect With Me</h2></summary>
   </ul>
 </div>
 
