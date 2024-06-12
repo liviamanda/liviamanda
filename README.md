@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!-- Languages and Tools -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Language and Tools</h2></summary>
-  </ul>
-</div>
+## 📈 Github Stats
+
+### 📊 GitHub Profile Stats
+<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liviamanda&show_icons=true&count_private=true&hide=" /></a>
+
+<br/>
+
+### 💻 Languages and Tools
 
 <p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> 
@@ -18,13 +19,20 @@
   <code> <img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.svg"> </code>
   <code> <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"> </code> 
-  <code> <img height="40" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"> </code> 
+  <code> <img height="30" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
 </p>
+
+<br/>
+
+### 💻 Most Used Languages
+<a href="https://github.com/liviamanda/github-readme-stats"><img alt="liviamanda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&langs_count=10&layout=compact#" /></a>
+
+<br/>
 
 ---------
 
