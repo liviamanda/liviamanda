@@ -1,22 +1,5 @@
 ## Hi there 👋
 
-<!--
-**liviamanda/liviamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  
 <!-- Languages and Tools -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -25,27 +8,21 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-<br>
-<p align="left">
+<p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kerasio/kerasio-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"> </code> 
-  <code> <img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg"> </code> 
+  <code> <img height="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://upload.vectorlogo.zone/logos/streamlitio/images/1548df31-a8e4-409b-a034-f2ddaa80670a.svg"> </code>
+  <code> <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"> </code> 
+  <code> <img height="40" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/huggingface/huggingface-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
 </p>
 
